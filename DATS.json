@@ -115,6 +115,7 @@
       },
       "access": {
         "landingPage": "https://doi.org/10.17605/OSF.IO/EKDU5",
+        "accessURL": "https://github.com/katielavigne/BADE-evidence-integration-task/archive/refs/heads/main.zip",
         "authorizations": [
           {
             "value": "public"
